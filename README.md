@@ -1,2 +1,2 @@
-# ch-21
-creating my own libruary
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
